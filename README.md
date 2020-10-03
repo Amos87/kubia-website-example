@@ -1,1 +1,1 @@
-# kubia-website-example
+My name is Amos. 
